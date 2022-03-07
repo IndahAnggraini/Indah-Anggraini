@@ -1,0 +1,14 @@
+#id-h1{
+    color: blue;
+}
+.class-h1{
+    color: green;
+}
+.class2-h1{
+    color: red;
+}
+
+
+.u1 li .u2 li:nth-child(1){
+    color: red;
+}
